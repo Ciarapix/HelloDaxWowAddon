@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title : HelloDax
+## Notes: This AddOn does nothing but display a frame with a button
+## Author: My Name
+HelloDax.xml
+# This is a comment. Interface: 60200 refers to WoW client version 6.2
