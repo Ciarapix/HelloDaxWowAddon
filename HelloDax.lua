@@ -8,4 +8,10 @@
 
 function HelloDax_OnLoad()
 	print("Collaboration RULE the world!!!!!!!!!.  Build info: ", GetBuildInfo());
+
+    print("Nuova funzione di prova.");
+end
+
+function Nuova_Funzione()
+
 end
