@@ -7,5 +7,5 @@
 --
 
 function HelloDax_OnLoad()
-	print("Collaboration RULE the world!.  Build info: ", GetBuildInfo());
+	print("Collaboration RULE the world!!!!!!!!!.  Build info: ", GetBuildInfo());
 end
